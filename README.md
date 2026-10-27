@@ -3,10 +3,6 @@
 ## Summary
 I used Amazon PartyRock, AWS's no-code generative-AI app builder that runs on Amazon Bedrock, to analyze a 32-day air-quality dataset covering Dec 1, 2025 to Jan 1, 2026. The dataset tracks six pollutants: PM10, PM2.5, CO, NO2, O3 and SO2. I turned the raw readings into summary tables, comparisons, correlations and daily trends.
 
-TODO Cindy:
-- Where does the air-quality data come from (source and location), and can you link or add the raw dataset?
-- Which course or program was this for (for example, AWS AI & ML Scholars)?
-- Can you add a link to the PartyRock app and screenshots?
 
 ## Problem
 Raw sensor readings are hard to read at a glance. The goal was to summarize pollutant levels, find which pollutants rise and fall together, and spot daily patterns.
